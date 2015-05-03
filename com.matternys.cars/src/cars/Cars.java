@@ -1,8 +1,8 @@
 package cars;
 
 /**
- *
- * @author Home
+ * @version 03/05/2015
+ * @author Steven Matterny
  */
 public class Cars {
 
